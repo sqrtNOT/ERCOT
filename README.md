@@ -1,2 +1,2 @@
-# ERCOT
-scrapes the ERCOT mis
+# ERCOT Scraper
+scrapes the ERCOT mis spreadsheets and loads them into a sql database.
